@@ -17,7 +17,7 @@ Hi, i'm an brazilian guy with an interest in programming. I am finishing my grad
 
 ## 🔮 Tools, Technologies and Languages
 
-<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter" /> <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&labelColor=0175C2" alt="Dart" /> 
+<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter" /> <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&labelColor=0175C2" alt="Dart" /> 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=renatoAkino&show_icons=true&theme=dracula" alt="renatoAkino"/>
