@@ -13,7 +13,8 @@ Hi, i'm an brazilian guy with an interest in programming. I am finishing my grad
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/renatoAkino)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/ricardo-alves-39099a139/)
 
 ## 🔮 Tools, Technologies and Languages
 
@@ -26,10 +27,3 @@ Hi, i'm an brazilian guy with an interest in programming. I am finishing my grad
 [github_profile]: https://github.com/mdeboute "Github Profile"
 [linkedin]: https://linkedin.com/in/mdeboute "Linkedin Profile"
 
-<!-- badges -->
-[gmail_badge]: https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin.deboute@gmail.com
-[linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mdeboute
------
-Credits: [mdeboute](https://github.com/mdeboute)
-
-Last Edited on: 15/01/2021
