@@ -4,7 +4,7 @@
 
 Hi, i'm an brazilian guy with an interest in programming. I am finishing my graduation in Analysis and systems development and I intend to enter the programming area.
 
-##I'm looking for: 
+## I'm looking for: 
 
 - Mobile Development :iphone:.
 - Backend Development 📄.
