@@ -1,61 +1,35 @@
+<!-- **mdeboute/mdeboute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Martin Debouté
 
+Hi, i'm an brazilian guy with an interest in programming. I am finishing my graduation in Analysis and systems development and I intend to enter the programming area.
 
+##I'm looking for: 
 
-# Hi, I'm Renato! :D   
+- Mobile Development :iphone:.
+- I enjoy learning new stuff and making notes 📄.
+- I like to travel and I like to have new opportunities 🛫.
+- I'm an Open Source enthusiast 🤠.
 
+## 📧 Contact me
 
+[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
 
-<!--
-<img src="https://komarev.com/ghpvc/?username=ricardo-kowalski&color=brightgreen" alt="ricardo-kowalski" /> 
--->
-<img src="https://visitor-badge.glitch.me/badge?page_id=ricardo-kowalski" alt="visitor badge"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&labelColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&labelColor=000000" alt="Flask" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&labelColor=F37626" alt="Jupyter" />  <img src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=google-colab&logoColor=white&labelColor=F9AB00" alt="Google Colab" />  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter" /> <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&labelColor=0175C2" alt="Dart" /> 
-<!--
-<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&labelColor=A8B9CC" alt="C" /> 
-<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++" /> 
--->
+## 🔮 Tools, Technologies and Languages
 
-### About me
-I'm Ricardo,  a mathematician and developer from Brazil.
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.apple.com/fr/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.anaconda.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anaconda.svg" alt="anaconda" width="40" height="40"/> </a> <a href="https://html.spec.whatwg.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.latex-project.org" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/latex.svg" alt="latex" width="40" height="40"/> </a> <a href="https://www.markdownguide.org" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/markdown.svg" alt="markdown" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a> <a href="https://atom.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/langfr-1280px-IntelliJ_IDEA_Logo.svg.png" alt="intellijidea" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/langfr-1280px-PyCharm_Logo.svg.png" alt="pycharm" width="40" height="40"/> </a> <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/43/f3/d3/43f3d32f-da43-daa3-79e6-c50e81149cfe/Xcode-85-220-0-4-2x.png/1200x630bb.png" alt="xcode" width="40" height="40"/> </a> <a href="https://www.vim.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.apple.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="40" height="40"/> </a> </p>
 
-- [Portfolio](https://sites.google.com/aluno.ifsp.edu.br/ricardoprofile) 💻 - Some of my work.
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mdeboute&show_icons=true) -->
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdeboute&layout=compact&v=2)](https://wakatime.com/@mdeboute)
 
-<!--
-**Languages and Tools:**  
+<!-- profile links -->
+[github_profile]: https://github.com/mdeboute "Github Profile"
+[linkedin]: https://linkedin.com/in/mdeboute "Linkedin Profile"
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<!-- badges -->
+[gmail_badge]: https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin.deboute@gmail.com
+[linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mdeboute
+-----
+Credits: [mdeboute](https://github.com/mdeboute)
 
-<br />
--->
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="320" />
-  
-**I'm looking for:**
-
-- 👨🏽‍💻 Work on cool projects :wink:;
-- :iphone: Mobile Development: Cross-Platform Apps, API Consumption, UX Design;
-- :computer: Back-End Development: Creation of API’s, Integration with M.L. Models, Relational and Non-relational Databases; 
-- :robot: Machine Learning / Deep Learning: Predictive Models, Convolutional Networks, Deploying Models;
-- :wrench: Operations Research: Combinatorial Optimization, Linear Programming, Decision Analysis;
-
-
-📈 My GitHub Stats
-
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=ricardo-kowalski&show_icons=true&theme=dracula" alt="ricardo-kowalski"/>
-
-
- :boy: More About Me:
- 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/ricardo-kowalski)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/ricardo-alves-39099a139/)
-
+Last Edited on: 15/01/2021
